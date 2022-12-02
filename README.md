@@ -1,1 +1,1 @@
-👋 Hi, I’m @Sapp00 - a Software Engineer with a passion for Security & Privacy.
+👋 Hi, I’m @Sapp00 - a passionate Software & Security Engineer with a passion for Privacy Preserving Technologies.
